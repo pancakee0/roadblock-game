@@ -1,4 +1,5 @@
-# roadblock-game
+<img width="1500" height="500" alt="New Project(11)" src="https://github.com/user-attachments/assets/ab586c2e-3671-4f77-834a-e0f75f067676" />
+
 This whole game was created in around 2 hours on Scratch. I made it to show my brother a thing or two about coding in scratch.
 
 # How to play
