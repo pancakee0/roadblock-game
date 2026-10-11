@@ -11,3 +11,6 @@ Dodge cars for as long as u can!
 
 # Main menu
 <img width="1446" height="1079" alt="image" src="https://github.com/user-attachments/assets/58e72b98-e7eb-4064-b370-c931aa44f431" />
+
+# Gameplay
+<img width="1319" height="982" alt="image" src="https://github.com/user-attachments/assets/392030a5-c380-4748-abc5-ca7a2676f711" />
