@@ -5,6 +5,7 @@ This whole game was created in around 2 hours on Scratch. I made it to show my b
 # How to play
 
 **A/S** - left/right
+
 **Shift** - dash
 
 Dodge cars for as long as u can!
